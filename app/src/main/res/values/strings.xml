@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyDemoApi</string>
+
+    <string name="login">Đăng nhập</string>
+    <string name="Hotline">Hotline: 09787551228</string>
+
+    <string name="token">xxcrNX79KY8wk:APA91bH3aO4McSmRHvWpczUy6EQGZpjqmKIhvvQmiOX7o7N39ZbhGe93v09RR9dWXDxZ24EGFgeX8c0YOKpbQXC84xX4RzckWygo7m8XMGtIWgBSIsuF_P08VwXggWqUFAPOW1EMOaK1</string>
+
+</resources>
